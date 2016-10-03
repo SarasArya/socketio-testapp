@@ -1,0 +1,20 @@
+{
+  "name": "socketio-testapp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "SarasArya <saras.arya@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
